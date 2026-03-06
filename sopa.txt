@@ -27,3 +27,5 @@ Total Lipids: 1.21 g
 Saturated Lipids: 0.17 g
 Carbohydrates: 11.98 g
 of which Sugars: 1.99 g
+Fiber: 1.84 g
+Salt: 0.58 g
